@@ -9,8 +9,8 @@ Este repositório contém exemplos de trabalhos práticos desenvolvidos na disci
 
 Aqui estão alguns exemplos de análises de softwares realizadas pelos alunos, utilizando os conceitos discutidos em aula:
 
-1. **Exemplo 1**: [Análise do Software X](https://github.com/exemplo/software-x)
-2. **Exemplo 2**: [Análise do Software Y](https://github.com/exemplo/software-y)
+1. **Exemplo 1**: [Análise do Software CodeBlocks](https://github.com/jacksonn455/design-de-interfaces/blob/main/docs/exemplos/analise-de-interface-1.pdf)
+2. **Exemplo 2**: [Análise do Software Defraggler](https://github.com/jacksonn455/design-de-interfaces/blob/main/docs/exemplos/analise-de-interface-2.pdf)
 
 ## Objetivo
 
