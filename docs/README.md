@@ -1,7 +1,7 @@
-Trabalho para a Matéria de Design de interfaces
+Trabalhos para a Matéria de Design de interfaces
 ===============================================
 
-- Este repositório contém materiais e exemplos para a disciplina de Desenvolvimento Web, onde o foco principal é a criação e manipulação de dados em tabelas # Exemplos de Trabalhos - Design de Interface
+- Este repositório contém materiais e exemplos de trabalhos para matéria de Design de Interface
 
 Este repositório contém exemplos de trabalhos práticos desenvolvidos na disciplina de **Design de Interface**. Cada exemplo aborda a análise de usabilidade, interatividade e aplicação de princípios de design, incluindo a Gestalt, heurísticas de usabilidade, e affordance.
 
